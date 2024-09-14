@@ -1,4 +1,3 @@
-Diversity & Inclusion Dashboard
 This dashboard is designed to provide insights into the company's diversity and inclusion efforts by examining key performance indicators (KPIs) related to employee demographics, hiring, turnover, performance ratings, and promotions. It aims to help HR professionals and company leadership understand how diversity and inclusion impact workforce dynamics, guiding strategic decision-making to create an equitable work environment.
 
 Overview:
